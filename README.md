@@ -54,4 +54,4 @@ As part of our mission to increase voter awareness and promote transparency, we 
 
 - *Trello*: https://trello.com/b/HhOjLevR/election-website-for-jordanians
 - *Figma*: https://www.figma.com/design/VLyHMryUkjNllnWTmQhYCA/Untitled?node-id=0-1&t=4NJAxW8Gb9JA37eN-0
-- *GitHub*: https://github.com/Election-Website-for-Jordanians/project-vote
+- *GitHub*: https://github.com/duaa2223/-Election-Website-.git
